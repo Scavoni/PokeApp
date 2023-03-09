@@ -42,6 +42,7 @@ export const Card = () => {
             })
           : ""}
       </div>
+      <h3>Teste</h3>
     </div>
   );
 };
